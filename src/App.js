@@ -11,8 +11,8 @@ function App() {
   return (
     <div>
       <Header />
-      {/* <Hero />
-      <Category />
+      <Hero />
+      {/* <Category />
       <Feature/>
       <Feature/>
       <Feature />
