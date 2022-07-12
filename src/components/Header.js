@@ -3,7 +3,7 @@ import Logo from '../assets/logo.png'
 
 function Header() {
   return (
-    <div className="lg:container lg:mx-auto flex flex-row items-center justify-between flex-nowrap h-20">
+    <div className="lg:container lg:mx-auto flex flex-row items-center justify-between flex-nowrap h-20 mb-4">
       <img className="w-40 h-8" src={Logo} alt="productly" />
       <div className="flex flex-row">
         <ul className="flex items-center justify-center space-x-8 mr-12">
