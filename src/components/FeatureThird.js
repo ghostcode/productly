@@ -2,7 +2,7 @@ import ThirdImg from '../assets/Image3.png'
 
 function FeatureThird() {
   return (
-    <div className="lg:container lg:mx-auto flex justify-between space-x-16 items-center">
+    <div className="lg:container lg:mx-auto flex justify-between space-x-16 items-center mb-40">
       <div className="text-zinc-600">
         <span>Effortless Validation for</span>
         <h3 className="mb-7 text-zinc-800 text-4xl">Design Professionals</h3>
