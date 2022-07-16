@@ -5,9 +5,9 @@ import Category from './components/Category'
 import FeatureFirst from "./components/FeatureFirst";
 import FeatureSecond from "./components/FeatureSecond";
 import FeatureThird from "./components/FeatureThird";
-// import Help from './components/Help'
-// import Market from './components/Market'
-// import Footer from './components/Footer'
+import Help from './components/Help'
+import Market from './components/Market'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -18,11 +18,9 @@ function App() {
       <FeatureFirst />
       <FeatureSecond />
       <FeatureThird />
-      {/* <Feature/>
-      <Feature />
       <Help />
       <Market />
-      <Footer/> */}
+      <Footer/>
     </div>
   );
 }
