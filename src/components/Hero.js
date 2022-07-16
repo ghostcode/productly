@@ -10,9 +10,7 @@ function Hero() {
           most intuitive way to imagine your next user experience.
         </p>
         <div className="flex items-center">
-          <div className="flex items-center justify-center w-44 h-14 mr-6 bg-amber-400 rounded-md text-white cursor-pointer">
-            Get started
-          </div>
+          <div className="btn-primary mr-6">Get started</div>
           <div>
             <span>icon</span>
             <span className="text-amber-400">Watch the Video</span>

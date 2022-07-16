@@ -11,9 +11,7 @@ function Help() {
             Do you require some help for your project: Conception workshop,
             prototyping, marketing strategy, landing page, Ux/UI?
           </p>
-          <div className="flex items-center justify-center w-56 h-14 bg-amber-400 rounded-md text-white cursor-pointer">
-            Contact our expert
-          </div>
+          <div className="btn-primary">Contact our expert</div>
         </div>
         <Message />
       </div>
